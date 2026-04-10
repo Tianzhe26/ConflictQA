@@ -35,5 +35,5 @@ while `_TripleConf` refers to inconsistency in the **KG evidence**. In both case
 
 ---
 
-# Contact
+## Contact
 This work has been accepted at **SIGIR 2026**.
